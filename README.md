@@ -1,13 +1,13 @@
-# Paradise Nursery Shopping Application
+# e-plantShopping
 
-A full-stack React and Redux shopping cart application for Paradise Nursery, an online plant shop offering house plants categorized into Air Purifying, Aromatic, Insect Repellent, Medicinal, and Low Maintenance plants.
+## Paradise Nursery Shopping Application
 
-## Project Details
-- **Repository Name:** e-plantShopping
-- **Application Name:** Paradise Nursery
-- **Technologies:** React, Redux Toolkit, Vite, HTML5, CSS3
+An online plant shopping cart application developed using React, Redux Toolkit, and Vite for Paradise Nursery.
 
-## Features
-- **Landing Page:** Introduces Paradise Nursery with a company overview and "Get Started" button.
-- **Product Listing:** Categorized plant catalog with Add to Cart functionality, dynamic cart badge counter, and disabled button state for already added items.
-- **Shopping Cart:** Increment/decrement quantity, real-time total and subtotal calculation, delete items, and continue shopping.
+### Project Name
+e-plantShopping
+
+### Features
+- **Landing Page:** Introduces Paradise Nursery with company mission and a "Get Started" button.
+- **Product Listing Page:** Displays categorized houseplants (Air Purifying, Aromatic, Insect Repellent, Medicinal, Low Maintenance) with Add to Cart functionality, dynamic cart badge counter, and disabled states once added.
+- **Shopping Cart Page:** Manage item quantities, real-time total amount and subtotal calculation, delete items, continue shopping, and checkout prompt.
